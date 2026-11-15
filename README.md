@@ -2,7 +2,7 @@
 
 Personal portfolio of **Anjaly H Krishna**, a B.Tech Computer Science and Engineering student (graduating 2027) and Python full stack developer from Kerala, India.
 
-**Live site:** https://anjalyh.github.io *(update this link if your repository or URL is different)*
+**Live site:** https://anjalyh.github.io 
 
 ## About
 
